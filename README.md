@@ -157,7 +157,9 @@ within the electronic newsletters and announcements.
 ## More Information
 
 + [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
++ [Softreck.Dev Foundation Code of Conduct - coc.softreck.dev](https://coc.softreck.dev)
 + [FAQ - faq.softreck.dev](https://faq.softreck.dev)
++ [Contributing to Softreck Projects | Softreck Code](https://cla.softreck.dev/)
 
 ---
 
