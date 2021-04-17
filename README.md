@@ -1,11 +1,13 @@
 # Privacy Policy at Softreck
 
-## Maintained Web sites
-
-This Privacy Policy applies to all Softreck -maintained Web sites, domains, information portals, and registries.
 
 + [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
 + [Privacy Policy at Softreck - github](https://softreck.github.io/pp/)
+
+
+This Privacy Policy applies to all Softreck -maintained Web sites, domains, information portals, and registries.
+
+## Privacy at Softreck's maintained Web sites
 
 ### Goals and Values 
 
@@ -150,6 +152,12 @@ within the electronic newsletters and announcements.
 ## Contacting Us
 
 + Questions about this Privacy Policy? [Contact us](mailto:pp@softreck.dev).
+
+
+## More Information
+
++ [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
++ [FAQ - faq.softreck.dev](https://faq.softreck.dev)
 
 ---
 
