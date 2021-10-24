@@ -163,4 +163,9 @@ within the electronic newsletters and announcements.
 
 ---
 
-[edit source](https://github.com/softreck/pp/edit/main/README.md), [github project](https://github.com/softreck/pp)
++ [edit source](https://github.com/softreck/pp/edit/main/README.md)
+```
+https://github.com/softreck/pp.git
+```
++ [github project](https://github.com/softreck/pp)
+
